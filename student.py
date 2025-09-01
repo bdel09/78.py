@@ -4,4 +4,4 @@
 mess = input("Enter a Phrase:")
 
 for x in mess:
-  print(x.lower(), ord(x))
+  print(x.lower(), ord(x.lower()))
